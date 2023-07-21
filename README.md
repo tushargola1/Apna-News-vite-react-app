@@ -7,6 +7,7 @@ use npm run dev to run this project***
 
 News  website built using the Vite + React app framework, enriched with the seamless navigation provided by `react-router-dom`. The primary goal of this project is to deliver a user-friendly and dynamic news browsing experience, eliminating the need for whole website to reload when accessing different news articles or categories.
 
+
 **Key Features:**
 
 1. **API Integration:** News Express utilizes the power of API (Application Programming Interface) to fetch real-time news data from various reliable sources. The integration with a news API allows the website to stay up-to-date with the latest headlines and news articles.
@@ -19,6 +20,6 @@ News  website built using the Vite + React app framework, enriched with the seam
 
 5. **Categories and Sorting:** News Express offers a diverse range of news categories, such as Technology, Politics, Sports, Entertainment, Science, and more. Users can easily filter news articles based on their preferences and interests. Additionally, sorting options based on relevance, date, or popularity empower users to customize their news feed according to their liking.
 
-6. **Responsive Design:** The website is designed to be fully responsive, adapting seamlessly to various devices and screen sizes, including desktops, tablets, and mobile phones. This ensures a consistent and enjoyable browsing experience for users across different platforms.
+6. **Responsive Design:** The website is designed to be fully responsive, adapting seamlessly to various devices and screen sizes, and mobile phones. This ensures a consistent and enjoyable browsing experience for users across different platforms.
 
 
