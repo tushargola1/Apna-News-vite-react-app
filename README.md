@@ -1,5 +1,10 @@
 # Apna-News
 
+
+***To run this project in your system you have to first install node modules in you laptop by giving the command npm i or npm install after installing node files 
+use npm run dev to run this project***
+
+
 News  website built using the Vite + React app framework, enriched with the seamless navigation provided by `react-router-dom`. The primary goal of this project is to deliver a user-friendly and dynamic news browsing experience, eliminating the need for whole website to reload when accessing different news articles or categories.
 
 **Key Features:**
